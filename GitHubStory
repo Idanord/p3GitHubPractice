@@ -1,0 +1,14 @@
+Chapter One - The Github Learning Curve - The initial branch
+
+Once upon a time, Will created a repository named P3GitHubPractice in his danord github account.
+It was a lonely repository, and had nothing in it but a LICENSE.txt file.  Not even a README.txt
+file existed in this lonely place.   That was soon change, as Andrew was first up to contribute, and
+posted this file (GitHubPractice.txt) to the github.  
+He added a file, which created a branch in his own github account with this message:
+You’re creating a file in a project you don’t have write access to. Submitting a change will create 
+the file in a new branch in your fork wallina2018/p3GitHubPractice, so you can send a pull request.
+
+Andrew's next step will be to send a pull request, which should notify Will (the repository owner)
+that a file is ready to be added to the repository.
+
+Stay tuned for chapter 2!
