@@ -1,0 +1,11 @@
+Chapter One - The Github Learning Curve - The initial branch
+
+Once upon a time, Will created a repository named P3GitHubPractice in his Idanord github account.
+It was a lonely repository, and had nothing in it but a LICENSE.txt file.  Not even a README.txt
+file existed in this lonely place.   That was soon change, as Andrew was first up to contribute, and
+performed these steps:
+1) Forked the repository created by Will into his own repository (wallina2018/p3GitHubPractice)
+2) Created a file named GitHubStory.txt in the master branch of this forked repository.
+3) Created a pull request to Will's repository to notify him that a file is ready to be merged.
+
+Stay tuned for Chapter Two!
