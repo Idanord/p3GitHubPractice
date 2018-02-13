@@ -1,3 +1,4 @@
+
 Chapter One - The Github Learning Curve - The initial branch
 
 Once upon a time, Will created a repository named P3GitHubPractice in his Idanord github account.
@@ -8,6 +9,14 @@ performed these steps:
 2) Created a file named GitHubStory.txt in the master branch of this forked repository.
 3) Created a pull request to Will's repository to notify him that a file is ready to be merged.
 
+Stay tuned for Chapter Two!
+
+Andrew's next step will be to send a pull request, which should notify Will (the repository owner)
+that a file is ready to be added to the repository.
+
+Stay tuned for chapter 2!
+
 Chapter Two
 
 After a few days of issues Will was able to clone the repository from Andrews account. When he was done with his work he pushed it back up into the master on his own account.
+
